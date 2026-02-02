@@ -21,12 +21,15 @@ CSS
 JavaScript (Vanilla)
 
 -----------------------------
+Github pages: https://ignaciorau.github.io/To-Do-List-app/
+
+o
+
 Ejecutar localmente
 
 Clonar el repo:
 
 git clone https://github.com/TU-USUARIO/TU-REPO.git
-
 
 Abrir index.html en el navegador
 o usar Live Server.
