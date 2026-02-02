@@ -29,7 +29,7 @@ Ejecutar localmente
 
 Clonar el repo:
 
-github.com.ignaciorau/To-Do-List-app.git
+[github.com.ignaciorau/To-Do-List-app.git](https://github.com/ignaciorau/To-Do-List-app.git)
 
 Abrir index.html en el navegador
 o usar Live Server.
